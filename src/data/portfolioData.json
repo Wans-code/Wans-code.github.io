@@ -1,0 +1,116 @@
+{
+  "personal": {
+    "name": "Wawan Gunawan",
+    "role": "Software Engineer & Web Developer",
+    "about": "A passionate software engineer with a strong focus on building scalable web applications and intuitive user interfaces. I enjoy solving complex problems and learning new technologies to deliver high-quality digital experiences.",
+    "email": "wansgun1141@gmail.com",
+    "phone": "+62 812 3456 7890",
+    "location": "Bandung, Indonesia",
+    "social": {
+      "github": "https://github.com/Wans-code",
+      "linkedin": "https://linkedin.com/in/wawan-gunawan-658866189"
+    }
+  },
+  "experience": [
+    {
+      "id": 1,
+      "company": "Tech Solutions Inc.",
+      "role": "Senior Frontend Developer",
+      "period": "Jan 2023 - Present",
+      "description": "Leading the frontend team to build modern, responsive web applications using React and Next.js.",
+      "achievements": [
+        "Improved website performance by 40%",
+        "Implemented a new design system",
+        "Mentored junior developers"
+      ]
+    },
+    {
+      "id": 2,
+      "company": "Digital Agency",
+      "role": "Web Developer",
+      "period": "Mar 2020 - Dec 2022",
+      "description": "Developed dynamic websites and e-commerce platforms for various clients.",
+      "achievements": [
+        "Delivered 20+ successful projects",
+        "Integrated multiple payment gateways",
+        "Optimized database queries for faster load times"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Vue.js",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        "Node.js",
+        "Express",
+        "Python",
+        "PHP",
+        "MySQL",
+        "MongoDB"
+      ]
+    },
+    {
+      "category": "Tools & Others",
+      "items": [
+        "Git",
+        "Docker",
+        "Figma",
+        "AWS",
+        "Agile/Scrum"
+      ]
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "E-Commerce Platform",
+      "description": "A full-featured e-commerce platform with a custom CMS, payment integration, and real-time inventory management.",
+      "imageUrl": "https://placehold.co/600x400/1e293b/ffffff?text=E-Commerce+Project",
+      "technologies": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Stripe"
+      ],
+      "liveUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "Task Management App",
+      "description": "A productivity app to help teams organize tasks, track progress, and collaborate effectively.",
+      "imageUrl": "https://placehold.co/600x400/1e293b/ffffff?text=Task+App",
+      "technologies": [
+        "Vue.js",
+        "Firebase",
+        "Tailwind CSS"
+      ],
+      "liveUrl": "#",
+      "githubUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "Corporate Website",
+      "description": "A responsive and SEO-optimized website for a leading financial consulting firm.",
+      "imageUrl": "https://placehold.co/600x400/1e293b/ffffff?text=Corporate+Web",
+      "technologies": [
+        "Next.js",
+        "TypeScript",
+        "Framer Motion"
+      ],
+      "liveUrl": "#",
+      "githubUrl": "#"
+    }
+  ]
+}
